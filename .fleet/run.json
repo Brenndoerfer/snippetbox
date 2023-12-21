@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "buildParams": ["go","run","./cmd/web"],
+            "goExecPath": "/usr/local/go/bin/go",
+            "name": "Go configuration",
+            "type": "go"
+        },
+        
+    ]
+}
